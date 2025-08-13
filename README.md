@@ -3,9 +3,6 @@
 
 ## General Malit
 
-## Module/Class Screenshots
-
-Please replace the placeholder images below with actual screenshots of each module/class's code.
 
 ### Program Output
 ![output.png](output.png)
